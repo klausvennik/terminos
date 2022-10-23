@@ -1,9 +1,9 @@
-#Términos  y condiciones
+# Términos  y condiciones
 
 Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. 
 
 
-#1. Pagos
+# 1. Pagos
 
 
 1.1 Métodos
@@ -16,7 +16,7 @@ El no pago activará una acción de redireccionamiento de su sitio web/ecommerce
 
 Luego de 30 días de atraso se podrían iniciar acciones legales de pago. 
 	
-#2. Garantía 
+# 2. Garantía 
 
 	2.1 Aplicación
 
@@ -42,7 +42,7 @@ Plataformas como Shopify, Heroku, Mercadopago, Paypal y otras. Realizan actualiz
 
 
 
-#3. Costos externos
+# 3. Costos externos
 
 	3.1 Shopify 
 	
@@ -61,7 +61,7 @@ En Shopify u otras plataformas se pueden utilizar aplicaciones de pago o que tie
 Si se usará un tema de pago se informarán los costos al cliente. En ningún caso el Desarrollador se hará responsable del pago de un tema a menos que la cotización lo indique. 
 
 
-#4. Reuniones 
+# 4. Reuniones 
 
 	4.1 Reuniones online
 
@@ -72,20 +72,20 @@ Las reuniones cotizadas son por defecto online mediante Google Meet de 30 minuto
 	Las reuniones presenciales siempre tienen un costo asociado. 
 
 
-#5. Comunicación
+# 5. Comunicación
 
 La comunicación oficial del servicio es por correo electrónico. Otros medios de comunicación no implican cotización o feedback válido. 
 
-#6. Boletas de honorarios 
+# 6. Boletas de honorarios 
 
 Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2022: 12.25%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
 
-#7. Retracto 
+# 7. Retracto 
 
 Los servicios no se acogen al derecho a retracto.
 
 	
-#8. Aplicaciones
+# 8. Aplicaciones
 
 	8.1 Heroku
 
