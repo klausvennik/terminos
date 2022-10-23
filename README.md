@@ -3,22 +3,22 @@
 Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. 
 
 
-# 1. Pagos
+## 1. Pagos
 
 
-1.1 Métodos
+### Métodos
 
 Se aceptan pagos por tarjeta de crédito, tarjeta de débito y transferencia.
 
-1.2 No pago
+### No pago
 		
 El no pago activará una acción de redireccionamiento de su sitio web/ecommerce  o acción de pausa en el servicio contratado hasta que se pague el 100% del servicio.  
 
 Luego de 30 días de atraso se podrían iniciar acciones legales de pago. 
 	
-# 2. Garantía 
+## 2. Garantía 
 
-	2.1 Aplicación
+Aplicación
 
 
 Se garantiza 30 días continuos para problemas funcionales que fueron cotizados como un botón que no dirija al sitio que debería dirigir. No cambios estéticos o funcionalidades distintas a las contratadas.
