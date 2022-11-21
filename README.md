@@ -2,8 +2,74 @@
 
 Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. 
 
+## Servicio de Tienda en Shopify 
 
-## Pagos
+### Asesoría en elección de tema 
+
+En una reunión por Google Meet de hasta 1 h  se sugerirán 3 temas de acuerdo a las necesidades del cliente y se le enseñará al cliente a buscar entre las plantillas de Shopify. Los temas en Shopify pueden ser gratuitos o pagados. El servicio no incluye el valor de una licencia premium. Pero si el cliente la compra se utilizará sin cargo adicional siempre y cuando se informe antes de la configuración de la tienda.
+
+### Carga de productos por carga masiva
+
+Se le enviará al cliente una plantilla de Google Sheets donde debe agregar la información de las variantes de sus productos. Además se le enviará un videotutorial de cómo hacerlo correctamente, tanto para la información como para las fotografías.
+
+### Configuración de envíos por región 
+
+Se configurarán hasta 3 tarifas por región en Chile. Y se le enviará un tutorial para agregar más tarifas personalizadas.
+
+### Configuración de buscador 
+
+Se configurará un buscador del tema escogido o se instalará una aplicación para lograrlo. En caso que se requiera una aplicación el cliente decidirá si quiere tomarlo porque puede o no tener costos asociados. 
+
+### Configuración de colecciones 
+
+Se configurarán colecciones con las plantillas del tema seleccionado. 
+
+### Configuración retiro en tienda
+
+Se configurará retiro en tienda si el cliente lo indica. 
+
+### Configuración de checkout en Shopify 
+
+Solo se configura el checkout dentro de Shopify. Se configurará el logo, colores y textos del checkout según el esquema que permite el plan de Shopify adquirido 
+
+### Integración de medios de pago 
+
+Se configurarán solo medios de pago permitidos por Shopify como Mercadopago en solo 1 moneda seleccionada por el cliente.
+
+### Instancia de corrección
+
+Se realizará una reunión de hasta 1 h como instancia de corrección.  
+
+### Configuración de notificaciones  
+
+Se configuran notificaciones al cliente de acuerdo a lo que permite Shopify. Se agregará Logo y color de resaltado según corresponda. Se podrán editar textos que debe enviar el cliente en los tiempos acordados.
+
+### Configuración de páginas interiores de la plantilla escogida
+
+Se configurarán las páginas interiores según la plantilla escogida. El cliente debe enviar el material multimedia (video, fotografías e ilustraciones)  y textos. 
+
+### Conexión de dominio del cliente
+
+Se realizará la conexión del dominio del cliente a Shopify por medio de Cloudflare. Este proceso, por su naturaleza, puede tardar hasta 72 h por cambio en los DNS. Por lo que si tiene asociados correos puede haber intermitencia hasta que termine el proceso.
+
+### Configuración de menú
+
+Se configurará el menú principal y menú de footer. 
+
+### Garantía de 6 meses para volver los productos y la plantilla a su estado original
+
+Se guardará respaldo de los productos cargados y del tema. Si por algún motivo el cliente requiere en 6 meses desde entregada la tienda volver al estado original los productos o el tema se cargarán los backups. Para ello la tienda debe estar publicada y el cliente debe tener un plan activo en Shopify.
+
+### Capacitación online por videollamada
+
+Es una reunión por Google Meet de hasta 3 personas del equipo del cliente. Que tiene por objetivo enseñar y resolver dudas sobre el uso de Shopify. Es una sesión que no es grabada y no es para realizar modificaciones a la tienda.
+
+### Capacitación grabada 
+
+Es el acceso a videotutoriales paso a paso que permiten aprender a utilizar Shopify u otras plataformas.
+
+
+## Pagos de los servicios
 
 
 ### Métodos
