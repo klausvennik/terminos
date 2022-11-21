@@ -1,8 +1,16 @@
 # Términos  y condiciones
 
-Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. Estos términos no pueden ser copiados por derechos de autor. 
+Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. 
 
 ## Servicio de Tienda en Shopify 
+
+### Proceso de Onboarding
+
+Se le enviará un documento para que el cliente complete y el desarrollador tenga toda la información disponible para configurar el ecommerce en Shopify. Luego se agendarán las reuniones correspondientes.
+
+### Multimedia y Textos
+
+El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotogragías e ilustraciones no pueden superar los 20 mb. Si son fotografía de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
 
 ### Asesoría en elección de tema 
 
