@@ -2,7 +2,7 @@
 
 Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com.
 
-## Validez de las cotizaciones enviadas por correo 
+## Validez de las cotizaciones
 
 6 días corridos de la fecha de envío. 
 
