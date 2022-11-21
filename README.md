@@ -14,7 +14,7 @@ Se le enviará al cliente una plantilla de Google Sheets donde debe agregar la i
 
 ### Configuración de envíos por región 
 
-Se configurarán hasta 3 tarifas por región en Chile. Y se le enviará un tutorial para agregar más tarifas personalizadas.
+Se configurarán hasta 3 tarifas por región. Y se le enviará un tutorial para agregar más tarifas personalizadas.
 
 ### Configuración de buscador 
 
