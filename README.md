@@ -84,7 +84,7 @@ Se emiten boletas de honorarios que tienen un porcentaje de retención que varí
 Los servicios no se acogen al derecho a retracto.
 
 	
-## Aplicaciones
+## Desarrollo de Aplicaciones
 
 ### Heroku
 
