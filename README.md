@@ -68,6 +68,10 @@ Es una reunión por Google Meet de hasta 3 personas del equipo del cliente. Que 
 
 Es el acceso a videotutoriales paso a paso que permiten aprender a utilizar Shopify u otras plataformas.
 
+### Footer
+
+Se incluirá el texto sobre derechos de autor e  hipervínculo.
+
 
 ## Pagos de los servicios
 
