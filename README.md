@@ -14,7 +14,7 @@ El servicio es un sprint de 3 semanas. Y el pago puede ser completo al inicio o 
 
 ### Multimedia y Textos
 
-El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotografías e ilustraciones no pueden superar los 20 mb. Si son fotografía de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
+El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Por ejemplo si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotografías e ilustraciones no pueden superar los 20 mb. Si son fotografías de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
 
 ### Asesoría en elección de tema 
 
@@ -186,5 +186,9 @@ Por defecto el Stack de aplicaciones es Ruby on Rails, Javascript, Bootstrap, Po
 ### Modificaciones al Sprint
 
 El proyecto se ejecutará tal cual fue cotizado. Los upgrades se realizarán al final del sprint y tendrán una cotización adicional y/o extensión de plazo. 
+
+## Derechos de autor
+
+El código desarrollado para los clientes y estos términos tienen derechos de autor. No se permite copiar o distribuir sin previa autorización escrita por correo electrónico. 
 
 
