@@ -91,9 +91,12 @@ Se garantiza 30 días continuos para problemas funcionales que fueron cotizados 
 
 Se garantizan 6 meses para volver al estado inicial de los siguientes servicios el día que fue entregado:
 
-Recuperación de Tema  
+Recuperación de Tema
+
 Recuperación de Productos 
+
 Recuperación del Código Personalizado
+
 Recuperación de Aplicación desarrollada a la medida  
 
 ### Nuevas características
