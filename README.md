@@ -10,7 +10,7 @@ Se le enviará un documento para que el cliente complete y el desarrollador teng
 
 ### Multimedia y Textos
 
-El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotogragías e ilustraciones no pueden superar los 20 mb. Si son fotografía de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
+El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotografías e ilustraciones no pueden superar los 20 mb. Si son fotografía de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
 
 ### Asesoría en elección de tema 
 
