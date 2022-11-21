@@ -93,8 +93,8 @@ Se garantizan 6 meses para volver al estado inicial de los siguientes servicios 
 
 Recuperación de Tema  
 Recuperación de Productos 
-Recuperación de Aplicación  
 Recuperación del Código Personalizado
+Recuperación de Aplicación desarrollada a la medida  
 
 ### Nuevas características
 
