@@ -4,7 +4,7 @@ Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.
 
 ## Validez de las cotizaciones enviadas por correo 
 
-3 días corridos de la fecha de envío. 
+6 días corridos de la fecha de envío. 
 
 ## Servicio de Tienda en Shopify 
 
