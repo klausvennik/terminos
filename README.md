@@ -166,7 +166,7 @@ La comunicación oficial del servicio es por correo electrónico. Otros medios d
 
 ## Boletas de honorarios 
 
-Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2022: 12.25%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
+Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2023: 13%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
 
 ## Retracto 
 
