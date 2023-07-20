@@ -155,6 +155,19 @@ Si se usará un tema de pago se informarán los costos al cliente. En ningún ca
 
 Las reuniones cotizadas son por defecto online mediante Google Meet de 30 minutos de duración a menos que se indique lo contrario.  
 
+### Horarios
+
+Los horarios de agendamiento son de acuerdo a la disponibilidad en Google Calendar. De 9:30-19:30 (Chile) de lunes a viernes.
+
+### Cancelación 
+
+Se puede cancelar las reuniones con 6 h de anticipación. 
+
+### Asistencia 
+
+Si por enfermedad o fuerza mayor no se puede asistir a las reuniones se desplazan de fecha segun disponibilidad.
+
+
 ### Reuniones presenciales
 
 Las reuniones presenciales siempre tienen un costo asociado. 
