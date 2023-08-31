@@ -208,4 +208,7 @@ El proyecto se ejecutará tal cual fue cotizado. Los upgrades se realizarán al 
 
 El código desarrollado para los clientes y estos términos tienen derechos de autor. No se permite copiar o distribuir sin previa autorización escrita por correo electrónico. 
 
+## Desarrollo de Secciones personalizadas
+
+Las secciones personalizadas tendrán un código que es propiedad intelectual del desarrollador. No se pueden vender o licenciar a menos que se indique lo contrario en la cotización. 
 
