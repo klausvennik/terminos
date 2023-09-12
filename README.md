@@ -212,3 +212,7 @@ El código desarrollado para los clientes y estos términos tienen derechos de a
 
 Las secciones personalizadas tendrán un código que es propiedad intelectual del desarrollador. No se pueden vender o licenciar a menos que se indique lo contrario en la cotización. 
 
+##Factibilidad
+
+Si lo cotizado no es factible, lo cual se indicará vía email, se devolverá el valor transferido por el item específico. Se entiende que cada servicio tiene por si mismo un proceso de verificación propio de factibilidad.
+
