@@ -215,3 +215,8 @@ Las secciones personalizadas tendrán un código que es propiedad intelectual de
 ## Factibilidad
 
 Si lo cotizado no es factible, lo cual se indicará vía email, se devolverá el valor transferido por el item específico menos el proporcional del trabajo realizado del item.  
+
+## Limitación de responsabilidad
+
+El desarrollador no será responsable de cualquier pérdida de ingresos, beneficios o datos, ni de daños directos, indirectos, incidentales, consecuentes o punitivos, que surjan del uso o la imposibilidad de usar el servicio, incluso si ha sido advertido de la posibilidad de dichos daños.
+
