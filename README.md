@@ -1,6 +1,6 @@
 # Términos  y condiciones
 
-Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com.
+Los siguientes términos y condiciones aplican a los servicios ofrecidos en www.klausvennik.com y los cotizados por Klaus Vennik a través de contacto@klausvennik.com. Los servicios se realizan acorde al esquema que presenta Shopify en el plan seleccionado y conforme a lo que permite la plataforma.
 
 ## Validez de las cotizaciones
 
