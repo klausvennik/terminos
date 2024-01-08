@@ -14,15 +14,11 @@ Se le enviará un documento para que el cliente complete y el desarrollador teng
 
 ### Plazo y pago 
 
-El servicio es un sprint de 3 semanas. Y el pago puede ser completo al inicio o 50 % inicio y 50 % antes de transferir la propiedad de la tienda al cliente. 
+El servicio es un sprint de 4 semanas. Y el pago puede ser completo al inicio o 50 % inicio y 50 % antes de transferir la propiedad de la tienda al cliente. 
 
 ### Multimedia y Textos
 
 El cliente debe enviar archivos multimedia y textos. Estos deben cumplir con los requerimientos del tema y Shopify. Por ejemplo si son videos deben estar cargados en youtube o si van a ser cargados directamente pueden ser de máximo 20 mb. En el caso de las fotografías e ilustraciones no pueden superar los 20 mb. Si son fotografías de productos deben ser todas del mismo tamaño. Una vez escogida la plantilla  se le enviará un tutorial mantener la proporción del diseño. 
-
-### Asesoría en elección de tema 
-
-En una reunión por Google Meet de hasta 1 h  se sugerirán 3 temas de acuerdo a las necesidades del cliente y se le enseñará al cliente a buscar entre las plantillas de Shopify. Los temas en Shopify pueden ser gratuitos o pagados. El servicio no incluye el valor de una licencia premium. Pero si el cliente la compra se utilizará sin cargo adicional siempre y cuando se informe antes de la configuración de la tienda.
 
 ### Carga de productos por carga masiva
 
@@ -30,11 +26,7 @@ Se le enviará al cliente una plantilla de Google Sheets donde debe agregar la i
 
 ### Configuración de envíos por región 
 
-Se configurarán hasta 3 tarifas por región. Y se le enviará un tutorial para agregar más tarifas personalizadas.
-
-### Configuración de buscador 
-
-Se configurará un buscador del tema escogido o se instalará una aplicación para lograrlo. En caso que se requiera una aplicación el cliente decidirá si quiere tomarlo porque puede o no tener costos asociados. 
+Se configurarán hasta 6 tarifas por región, las cuales deberán ser indicadas en la primera semana del proyecto por el cliente, si lo hace de forma posterior se cobrará adicional.  
 
 ### Configuración de colecciones 
 
@@ -42,23 +34,20 @@ Se configurarán colecciones con las plantillas del tema seleccionado.
 
 ### Configuración retiro en tienda
 
-Se configurará retiro en tienda si el cliente lo indica. 
+Se configurará retiro en tienda si el cliente lo indica y si aplica para el por el inventario de bodegas. 
 
 ### Configuración de checkout en Shopify 
 
-Solo se configura el checkout dentro de Shopify. Se configurará el logo, colores y textos del checkout según el esquema que permite el plan de Shopify adquirido 
+Solo se configura el checkout dentro de Shopify. Se configurará el logo, colores y textos del checkout según el esquema que permite el plan de Shopify adquirido. No incluye la configuración de código adicional en shopify plus.
 
 ### Integración de medios de pago 
 
-Se configurarán solo medios de pago permitidos por Shopify como Mercadopago en solo 1 moneda seleccionada por el cliente.
+Se configurarán solo medios de pago permitidos por Shopify como Mercadopago, Flow y Venti en solo 1 moneda seleccionada por el cliente.
 
-### Instancia de corrección
-
-Se realizará una reunión de hasta 1 h como instancia de corrección.  
 
 ### Configuración de notificaciones  
 
-Se configuran notificaciones al cliente de acuerdo a lo que permite Shopify. Se agregará Logo y color de resaltado según corresponda. Se podrán editar textos que debe enviar el cliente en los tiempos acordados.
+Se configuran notificaciones de confirmación de pedido y confirmación de envío al cliente de acuerdo a lo que permite Shopify. Se agregará Logo y color de resaltado según corresponda. Se podrán editar textos que debe enviar el cliente en los tiempos acordados.
 
 ### Configuración de páginas interiores de la plantilla escogida
 
@@ -126,7 +115,7 @@ No se incluye en la garantía nuevas funcionalidades, diseño u otras caracterí
 ### Cambios en las plataformas
 
 
-Plataformas como Shopify, Heroku, Mercadopago, Paypal y otras. Realizan actualizaciones y pueden agregar o quitar funcionalidades. Cada una de ellas brinda su propio soporte técnico. No se puede garantizar que no se hagan cambios en plataformas externas. 
+Plataformas como Shopify, Heroku, Firebase, Mercadopago, Paypal y otras. Realizan actualizaciones y pueden agregar o quitar funcionalidades. Cada una de ellas brinda su propio soporte técnico. No se puede garantizar que no se hagan cambios en plataformas externas. 
 
 
 
@@ -143,10 +132,6 @@ Las plataformas de pago como Mercadopago, Paypal y Stripe tienen comisiones seg�
 ### Aplicaciones de pago 
 
 En Shopify u otras plataformas se pueden utilizar aplicaciones de pago o que tienen costos mensuales/anuales para el cliente. Se informará en la cotización que se usará una aplicación que podría requerir un pago único o recurrente. En ningún caso el Desarrollador se hace cargo de pagos o mantenciones de aplicaciones. 
- 
-### Temas de pago
-
-Si se usará un tema de pago se informarán los costos al cliente. En ningún caso el Desarrollador se hará responsable del pago de un tema a menos que la cotización lo indique. 
 
 
 ## Reuniones 
@@ -161,11 +146,11 @@ Los horarios de agendamiento son de acuerdo a la disponibilidad en Google Calend
 
 ### Cancelación 
 
-Se puede cancelar las reuniones con 6 h de anticipación. 
+Se puede cancelar las reuniones con 24 h de anticipación. 
 
 ### Asistencia 
 
-Si por enfermedad o fuerza mayor no se puede asistir a las reuniones se desplazan de fecha segun disponibilidad.
+Si por enfermedad o fuerza mayor de cualquier de las partes no se puede asistir a las reuniones se desplazan de fecha segun disponibilidad.
 
 
 ### Reuniones presenciales
@@ -179,7 +164,7 @@ La comunicación oficial del servicio es por correo electrónico. Otros medios d
 
 ## Boletas de honorarios 
 
-Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2023: 13%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
+Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2024: 13.75%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
 
 ## Retracto 
 
@@ -188,9 +173,9 @@ Los servicios no se acogen al derecho a retracto.
 	
 ## Desarrollo de Aplicaciones
 
-### Heroku
+### Firebase
 
-Por defecto el hosting de aplicaciones será Heroku y la base de datos en Postgres  y sus costos son a cargo del cliente, el cual al final del servicio tendrá acceso a cuenta de Heroku. 
+Por defecto el hosting de aplicaciones será Firebas sus costos son a cargo del cliente. 
 
 ### Repositorio
 
@@ -198,7 +183,7 @@ El cliente tendrá acceso a un repositorio en Github privado al final del servic
 
 ### Stack
 
-Por defecto el Stack de aplicaciones es Ruby on Rails, Javascript, Bootstrap, Polaris, CSS y HTML. 
+Por defecto el Stack de aplicaciones es Javascript, Bootstrap, Polaris, CSS y HTML. 
 
 ### Modificaciones al Sprint
 
