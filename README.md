@@ -14,7 +14,7 @@ Se le enviará un documento para que el cliente complete y el desarrollador teng
 
 ### Plazo y pago 
 
-El servicio es un sprint de 4 semanas. Y el pago puede ser completo al inicio o 50 % inicio y 50 % antes de transferir la propiedad de la tienda al cliente. 
+Los servicios se pagan monto completo al inicio, 2 cuotas con un extra de 10% o 3 cuotas con un extra de 20% mediante stripe.
 
 ### Multimedia y Textos
 
