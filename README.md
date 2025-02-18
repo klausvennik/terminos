@@ -162,9 +162,9 @@ Las reuniones presenciales siempre tienen un costo asociado.
 
 La comunicación oficial del servicio es por correo electrónico. Otros medios de comunicación no implican cotización o feedback válido. 
 
-## Boletas de honorarios 
+## Facturas o boletas
 
-Se emiten boletas de honorarios que tienen un porcentaje de retención que varía según el año de emisión ( 2024: 13.75%). El SII indica que si el receptor de la boleta de honorarios tiene inicio de actividades en primera categoría debe ser la empresa receptora quien retenga el porcentaje y la pague al SII. En cambio si es de segunda categoría es el emisor de la boleta de honorarios quien debe retener el porcentaje y lo pague al SII. 
+No se emite factura o boleta del extranjero porque la empresa Klaus Vennik LLC es una empresa de USA. Si requiere invoice debe solicitarlo al inicio de lo contrario declarar inversión o gasto en su empresa de acuerdo a la asesoría con su contador nacional usando los comprobantes de pago de stripe.
 
 ## Retracto 
 
